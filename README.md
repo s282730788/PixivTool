@@ -55,16 +55,13 @@ PixivTool 是一款基于 Python 和 PyQt5 开发的桌面应用程序，旨在�
 1.  **克隆或下载项目**
 
     ```bash
-    git clone https://github.com/YourUsername/PixivTool.git
+    git clone https://github.com/s282730788/PixivTool.git
     cd PixivTool
     ```
-    *(请将 `https://github.com/YourUsername/PixivTool.git` 替换为您的实际 GitHub 仓库地址)*
 
 2.  **安装依赖**
 
     ```bash
-    pip install -r requirements.txt
-    # 如果没有 requirements.txt 文件，请手动安装以下依赖：
     pip install PyQt5 PyQtWebEngine qfluentwidgets configobj requests Pillow
     ```
     *注意：`PyQtWebEngine` 是内置浏览器功能所必需的。如果安装失败或遇到问题，请检查您的 Python 环境和系统兼容性。*
