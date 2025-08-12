@@ -10,10 +10,10 @@ PixivTool 是一款基于 Python 和 PyQt5 开发的桌面应用程序，旨在�
 （请在此处插入您的应用程序截图，例如：主界面、设置界面、下载列表等）
 
 ![主界面截图1](https://github.com/s282730788/PixivTool/blob/main/pic/1.png)
-![主界面截图]2(https://github.com/s282730788/PixivTool/blob/main/pic/2.png)
-![主界面截图]3(https://github.com/s282730788/PixivTool/blob/main/pic/3.png)
-![主界面截图]4(https://github.com/s282730788/PixivTool/blob/main/pic/4.png)
-![主界面截图]5(https://github.com/s282730788/PixivTool/blob/main/pic/5.png)
+![主界面截图2](https://github.com/s282730788/PixivTool/blob/main/pic/2.png)
+![主界面截图3](https://github.com/s282730788/PixivTool/blob/main/pic/3.png)
+![主界面截图4](https://github.com/s282730788/PixivTool/blob/main/pic/4.png)
+![主界面截图5](https://github.com/s282730788/PixivTool/blob/main/pic/5.png)
 
 
 ## ✨ 主要功能
